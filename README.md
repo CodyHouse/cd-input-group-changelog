@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Input Group - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Input Group component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/input-group)
+- [Info Page](https://codyhouse.co/ds/components/info/input-group)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
